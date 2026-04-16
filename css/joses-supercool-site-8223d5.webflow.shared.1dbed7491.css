@@ -2339,7 +2339,7 @@ label {
   overflow-wrap: anywhere;
   vertical-align: baseline;
   align-self: auto;
-  display: block;
+  display: flex;
 }
 
 .display-01.hero-title {
